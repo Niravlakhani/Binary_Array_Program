@@ -1,4 +1,5 @@
 console.log("Hello");
+console.log("Binary Array Program");
 
 let a = [0,1,0,0,1,1,0,1,1,1,0,0,1];
 let max = 0;
